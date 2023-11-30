@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 Working at Enfo as Integration Developer. Building the next-gen integrations in the Cloud with Microsoft Azure.<br>✒️ Ask me anything about Integrations!<br>🤝 On my spare time I work on a project call SpamTube where the goal is create a tool to autogenerate content for Youtube and Tiktok. <br><br><br>
+📌 Working at Epical as Integration Developer. Building the next-gen integrations in the Cloud with Microsoft Azure.<br>✒️ Ask me anything about Integrations!<br>🤝 On my spare time I work on a project call SpamTube where the goal is create a tool to autogenerate content for Youtube and Tiktok. <br><br><br>
 
 
 ## 🌐 Socials:
